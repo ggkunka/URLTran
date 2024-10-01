@@ -1,0 +1,40 @@
+Initializing DataLoader for training...
+DataLoader initialized for training
+Starting epoch 1...
+Batch 0 - Loss: 0.7192529439926147
+Batch 10 - Loss: 0.703356921672821
+Batch 20 - Loss: 0.39162376523017883
+Batch 30 - Loss: 0.2148849070072174
+Epoch 1 completed with Loss: 0.48442512485780753
+Starting epoch 2...
+Batch 0 - Loss: 0.23991677165031433
+Batch 10 - Loss: 0.41145455837249756
+Batch 20 - Loss: 0.011943532153964043
+Batch 30 - Loss: 0.009682777337729931
+Epoch 2 completed with Loss: 0.0873102111654589
+Starting epoch 3...
+Batch 0 - Loss: 0.012365015223622322
+Batch 10 - Loss: 0.2398061603307724
+Batch 20 - Loss: 0.013537226244807243
+Batch 30 - Loss: 0.007099885027855635
+Epoch 3 completed with Loss: 0.04697989120904822
+Starting epoch 4...
+Batch 0 - Loss: 0.007555596996098757
+Batch 10 - Loss: 0.005918731447309256
+Batch 20 - Loss: 0.45535364747047424
+Batch 30 - Loss: 0.2068854421377182
+Epoch 4 completed with Loss: 0.20462597759615164
+Starting epoch 5...
+Batch 0 - Loss: 0.02248416468501091
+Batch 10 - Loss: 0.029578499495983124
+Batch 20 - Loss: 0.01664811000227928
+Batch 30 - Loss: 0.013897172175347805
+Epoch 5 completed with Loss: 0.07664514501811936
+Initializing DataLoader for evaluation...
+DataLoader initialized for evaluation
+Evaluating batch 0
+Evaluation Results:
+Precision: 1.0
+Recall (TPR): 0.9819277108433735
+F1-Score: 0.9908814589665653
+FPR: 0.0

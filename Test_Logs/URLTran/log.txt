@@ -1,0 +1,22 @@
+Initializing DataLoader...
+DataLoader initialized
+Starting epoch 1...
+Batch 0 - Loss: 16.109853744506836
+Batch 10 - Loss: 7.700429439544678
+Batch 20 - Loss: 4.544616222381592
+Batch 30 - Loss: 2.7639756202697754
+Batch 40 - Loss: 1.4458870887756348
+Batch 50 - Loss: 0.8519741296768188
+Batch 60 - Loss: 0.5458418130874634
+Epoch 1 completed with Loss: 3.8592513946313707
+Starting epoch 2...
+Batch 0 - Loss: 0.4913680851459503
+Batch 10 - Loss: 0.3173506557941437
+Batch 20 - Loss: 0.25083452463150024
+Batch 30 - Loss: 0.23573070764541626
+Batch 40 - Loss: 0.23444077372550964
+Batch 50 - Loss: 0.20425087213516235
+Batch 60 - Loss: 0.16239899396896362
+Epoch 2 completed with Loss: 0.26041612596738906
+Masked Input: [CLS]hugging[MASK][MASK]co/docs/transformers/task[MASK]summary[SEP]
+Predicted Output: [CLS]hugging//co/docs/transformers/task-summary[SEP]
